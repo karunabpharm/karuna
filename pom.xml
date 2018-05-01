@@ -19,7 +19,6 @@
             </plugin>
         </plugins>
     </build>
-    <!--karna-->
     <dependencies>
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
