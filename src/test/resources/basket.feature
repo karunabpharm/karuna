@@ -18,7 +18,6 @@ Feature: Basket
       | nike      |
       | puma      |
       | sofa      |
-      | something |
 
   @regression
   Scenario: Remove product from Basket
